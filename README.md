@@ -2,6 +2,7 @@
 **Digital Mapping and Spatial Narrative Using Textual GIS Tools**
 
 🌐 **[Explore the full Digital Spatial Narrative on Notion](https://athensmemoryproject.notion.site/269326c40cc2807bab41f799a9171d20?source=copy_link)**
+
 *Note: The interactive spatial narrative and literary excerpts on Notion are presented in Greek, the original language of the novel.*
 
 ---
